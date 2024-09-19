@@ -1,22 +1,25 @@
 import pandas as pd
 
-# Load the dataset
 df = pd.read_csv("players.csv")
 
-# Define the categories you want to keep
+# Keeping only these countries
 selected_country_of_birth = [
-    "England",
-    "Argentine",
-    "Spain",
+    "Argentina",
+    "Belgium",
     "Brazil",
-    "Germany",
+    "England",
     "France",
+    "Germany",
+    "Italy",
+    "Netherlands",
+    "Portugal",
+    "Spain",
 ]
 
-# Filter the DataFrame
+# Filter the countries
 filtered_df = df[df["country_of_birth"].isin(selected_country_of_birth)]
 
-# Drop unwanted columns
+# Drop irrelevent columns
 filtered_df = filtered_df.drop(
     [
         "player_id",
@@ -30,11 +33,19 @@ filtered_df = filtered_df.drop(
         "agent_name",
         "image_url",
         "url",
-        "current_club_domestic_competition_id",
+        "foot",
+        "height_in_cm",
         "current_club_name",
+        "highest_market_value_in_eur",
+        "contract_expiration_date",
+        "last_season",
     ],
     axis=1,
 )
 
-# Save to CSV with specific formatting (handle quotes and delimiters)
+# Remove players without market value
+filtered_df.dropna(subset="market_value_in_eur", inplace=True)
+
+# Export
+filtered_df.to_excel("filtered_dataset.xlsx", index=False)
 filtered_df.to_csv("filtered_dataset.csv", index=False)
