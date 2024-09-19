@@ -21,7 +21,7 @@ English football players have higher value on transfermarket compared to players
   - country_of_birth
   - position
   - date of birth (age)
-  - league
+  - current_club_domestic_competition_id (league)
 
 ## Data cleaning
 
