@@ -26,5 +26,8 @@ English football players have higher value on transfermarket compared to players
 ## Data cleaning
 
 1. Removed the players without market value determined. There was small amount of them, so there should not be a significant effect to the end values.
+2. Removed the players without date of birth value.
+3. Calculate age for the players.
+4. Delete the date_of_birth column.
 
 Data source: [Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores), scrapped from [https://www.transfermarkt.com/](https://www.transfermarkt.com/)
