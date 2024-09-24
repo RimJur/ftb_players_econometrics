@@ -16,6 +16,8 @@ selected_country_of_birth = [
 # Filter the DataFrame
 filtered_df = df[df["country_of_birth"].isin(selected_country_of_birth)]
 
+# TODO: transform birth date to age
+
 # Drop unwanted columns
 filtered_df = filtered_df.drop(
     [
@@ -30,7 +32,8 @@ filtered_df = filtered_df.drop(
         "agent_name",
         "image_url",
         "url",
-        "current_club_domestic_competition_id",
+        "foot",
+        "height_in_cm",
         "current_club_name",
     ],
     axis=1,
