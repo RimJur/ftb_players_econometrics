@@ -19,11 +19,10 @@ selected_country_of_birth = [
 ]
 
 # Filter the countries
-filtered_df = df[df["country_of_birth"].isin(selected_country_of_birth)]
-
+df = df[df["country_of_birth"].isin(selected_country_of_birth)]
 
 # Drop unwanted columns
-filtered_df = filtered_df.drop(
+df = df.drop(
     [
         "player_id",
         "first_name",
@@ -46,33 +45,8 @@ filtered_df = filtered_df.drop(
     axis=1,
 )
 
-
-# Remove players without market value and date of birth
-filtered_df.dropna(subset="date_of_birth", inplace=True)
-filtered_df.dropna(subset="market_value_in_eur", inplace=True)
-
-# Transform date of birth to age
-# df["date_of_birth"] = pd.to_datetime(df["date_of_birth"])
-# current_date = pd.to_datetime(date.today().__str__())
-
-
-def calculate_age(born):
-    if born:
-        if isinstance(born, type("string")):
-            born = datetime.fromisoformat(born)
-            today = datetime.today()
-            age_date = today - born
-            age_days = age_date.days
-            age_years = math.floor(age_days / 365.25)
-            return age_years
-    return
-
-
-df["age"] = df["date_of_birth"].apply(lambda x: calculate_age(x))
-filtered_df.insert(2, "age", df["age"])
-
-filtered_df = filtered_df.drop(["date_of_birth"], axis=1)
+# Remove players without position and market value
+df.dropna(subset=["position", "market_value_in_eur"], inplace=True, how='any')
 
 # Export
-filtered_df.to_excel("filtered.xlsx", index=False)
-filtered_df.to_csv("filtered.csv", index=False)
+df.to_csv("intermediate.csv", index=False)
