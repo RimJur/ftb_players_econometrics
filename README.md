@@ -35,7 +35,7 @@ English football players have higher value on transfermarket compared to players
 - 92 players with missing both position + market_value_in_eur
 
 - Overall players 32400
-- Players with selected country_of_birth and after removal of players with missing data 14340
+- Players with selected country_of_birth and after removal of players with missing data 14741
 
 ## Data cleaning
 
