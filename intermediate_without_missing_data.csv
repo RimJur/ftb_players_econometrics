@@ -5,7 +5,7 @@ Dedê,Brazil,1978-04-18 00:00:00,Defender,TR1,400000
 Christoph Metzelder,Germany,1980-11-05 00:00:00,Defender,L1,1500000
 Marc Ziegler,Germany,1976-06-13 00:00:00,Goalkeeper,L1,200000
 Sérgio da Silva Pinto,Portugal,1980-10-16 00:00:00,Midfield,ES1,150000
-Fabian Ernst,Germany,,Midfield,TR1,1500000
+Fabian Ernst,Germany,1979-05-30,Midfield,TR1,1500000
 Benjamin Köhler,Germany,1980-08-04 00:00:00,Midfield,L1,150000
 Sebastian Kehl,Germany,1980-02-13 00:00:00,Midfield,L1,1000000
 Oka Nikolov,Germany,1974-05-25 00:00:00,Goalkeeper,L1,350000
@@ -18,7 +18,7 @@ Simon Rolfes,Germany,1982-01-21 00:00:00,Midfield,L1,2000000
 Giuseppe Gemiti,Germany,1981-05-03 00:00:00,Defender,IT1,75000
 Hanno Balitsch,Germany,1981-01-02 00:00:00,Midfield,L1,200000
 Selim Teber,Germany,1981-03-07 00:00:00,Midfield,TR1,175000
-Thorben Marx,Germany,,Midfield,L1,300000
+Thorben Marx,Germany,1981-06-01,Midfield,L1,300000
 Jens Langeneke,Germany,1977-03-29 00:00:00,Defender,L1,100000
 Heinz Müller,Germany,1978-05-30 00:00:00,Goalkeeper,L1,200000
 Ugur Inceman,Germany,1981-05-25 00:00:00,Midfield,TR1,50000
@@ -58,7 +58,7 @@ Halil Altintop,Germany,1982-12-08 00:00:00,Midfield,L1,200000
 Hamit Altintop,Germany,1982-12-08 00:00:00,Midfield,L1,300000
 Ali Bilgin,Germany,1981-12-17 00:00:00,Midfield,TR1,175000
 Ahmet Cebe,Germany,1983-05-02 00:00:00,Defender,TR1,50000
-Deniz Dogan,Germany,,Defender,L1,75000
+Deniz Dogan,Germany,1979-10-20,Defender,L1,75000
 Markus Feulner,Germany,1982-02-12 00:00:00,Midfield,L1,100000
 Philipp Haastrup,Germany,1982-03-05 00:00:00,Defender,NL1,100000
 Erdal Kilicaslan,Germany,1984-08-23 00:00:00,Attack,TR1,400000
@@ -176,7 +176,7 @@ Michael Carrick,England,1981-07-28 00:00:00,Midfield,GB1,1000000
 Glen Johnson,England,1984-08-23 00:00:00,Defender,GB1,2500000
 Eduardo,Brazil,1980-08-05 00:00:00,Attack,FR1,500000
 Pierre-Alain Frau,France,1980-04-15 00:00:00,Attack,FR1,250000
-Martin Lanig,Germany,,Midfield,L1,600000
+Martin Lanig,Germany,1984-07-11,Midfield,L1,600000
 Kevin Nolan,England,1982-06-24 00:00:00,Midfield,GB1,2000000
 Djibril Cissé,France,1981-08-12 00:00:00,Attack,FR1,200000
 Iker Casillas,Spain,1981-05-20 00:00:00,Goalkeeper,PO1,1000000
@@ -389,7 +389,7 @@ Grégory Cerdan,France,1982-07-28 00:00:00,Defender,FR1,500000
 Yoann Poulard,France,1976-07-01 00:00:00,Defender,FR1,400000
 Marco Caligiuri,Germany,1984-04-14 00:00:00,Defender,L1,250000
 Mario Gómez,Germany,1985-07-10 00:00:00,Attack,L1,800000
-Patrick Helmes,Germany,,Attack,L1,1000000
+Patrick Helmes,Germany,1984-03-01,Attack,L1,1000000
 Donny de Groot,Netherlands,1979-08-16 00:00:00,Attack,NL1,125000
 Bas Sibum,Netherlands,1982-12-26 00:00:00,Midfield,NL1,200000
 Dorus de Vries,Netherlands,1980-12-29 00:00:00,Goalkeeper,SC1,350000
@@ -805,7 +805,7 @@ Charles,Brazil,1985-02-14 00:00:00,Midfield,TR1,125000
 Mickaël Chrétien Basser,France,1984-07-10 00:00:00,Defender,FR1,250000
 Alexander Baumjohann,Germany,1987-01-23 00:00:00,Midfield,L1,100000
 Marco Russ,Germany,1985-08-04 00:00:00,Defender,L1,400000
-Daniel Halfar,Germany,,Midfield,L1,400000
+Daniel Halfar,Germany,1988-01-07,Midfield,L1,400000
 Carlos Cuéllar,Spain,1981-08-23 00:00:00,Defender,GB1,50000
 Nicolas Maurice-Belay,France,1985-04-19 00:00:00,Midfield,FR1,1000000
 Juan Valera,Spain,1984-12-21 00:00:00,Defender,ES1,2000000
@@ -978,7 +978,7 @@ Kenny Van Hoevelen,Belgium,1983-06-24 00:00:00,Defender,BE1,200000
 Gladstone,Brazil,1985-01-29 00:00:00,Defender,PO1,300000
 Artur Moraes,Brazil,1981-01-25 00:00:00,Goalkeeper,PO1,100000
 Jussiê,Brazil,1983-09-19 00:00:00,Midfield,FR1,500000
-Tobias Weis,Germany,,Midfield,L1,300000
+Tobias Weis,Germany,1985-07-30,Midfield,L1,300000
 Corentin Jean,France,1995-07-15 00:00:00,Attack,FR1,1000000
 Urby Emanuelson,Netherlands,1986-06-16 00:00:00,Midfield,NL1,100000
 Nicolas Lombaerts,Belgium,1985-03-20 00:00:00,Defender,BE1,300000
@@ -1457,7 +1457,7 @@ Kadir Bekmezci,Belgium,1985-07-05 00:00:00,Midfield,TR1,50000
 Baptiste Ulens,Belgium,1987-07-24 00:00:00,Defender,BE1,350000
 Antonio Barragán,Spain,1987-06-12 00:00:00,Defender,ES1,600000
 Pedro Geromel,Brazil,1985-09-21 00:00:00,Defender,ES1,250000
-Sezer Badur,Germany,,Midfield,TR1,25000
+Sezer Badur,Germany,1984-06-20,Midfield,TR1,25000
 Micah Richards,England,1988-06-24 00:00:00,Defender,GB1,500000
 Patrick Herrmann,Germany,1991-02-12 00:00:00,Attack,L1,1000000
 Robbert te Loeke,Netherlands,1988-12-01 00:00:00,Goalkeeper,NL1,100000
@@ -1640,7 +1640,7 @@ Diego Biseswar,Netherlands,1988-03-08 00:00:00,Midfield,GR1,300000
 Ezequiel Garay,Argentina,1986-10-10 00:00:00,Defender,ES1,1000000
 Djalmir,Brazil,1976-04-22 00:00:00,Attack,PO1,100000
 Max Kruse,Germany,1988-03-19 00:00:00,Attack,L1,500000
-Christian Dorda,Germany,,Defender,BE1,175000
+Christian Dorda,Germany,1988-12-06 00:00:00,Defender,BE1,175000
 Olcay Sahan,Germany,1987-05-26 00:00:00,Attack,TR1,100000
 Fin Bartels,Germany,1987-02-07 00:00:00,Attack,L1,300000
 Miguel Oliveira,Portugal,1983-08-18 00:00:00,Defender,PO1,75000
@@ -1892,7 +1892,7 @@ Giuseppe Vives,Italy,1980-07-14 00:00:00,Midfield,IT1,250000
 Diego Alves,Brazil,1985-06-24 00:00:00,Goalkeeper,ES1,150000
 Tom De Sutter,Belgium,1985-07-03 00:00:00,Attack,BE1,300000
 Fraizer Campbell,England,1987-09-13 00:00:00,Attack,GB1,150000
-Timo Gebhart,Germany,,Midfield,L1,100000
+Timo Gebhart,Germany,1989-04-12 00:00:00,Midfield,L1,100000
 Oumar Sissoko,France,1987-09-13 00:00:00,Goalkeeper,FR1,300000
 Gary Hooper,England,1988-01-26 00:00:00,Attack,GB1,300000
 Kenny Steppe,Belgium,1988-11-14 00:00:00,Goalkeeper,BE1,100000
@@ -2199,7 +2199,7 @@ Anthony Van Loo,Belgium,1988-10-05 00:00:00,Defender,BE1,350000
 Semih Aydilek,Germany,1989-01-16 00:00:00,Attack,TR1,100000
 Rickie Lambert,England,1982-02-16 00:00:00,Attack,GB1,1500000
 Rémi Maréval,France,1983-02-24 00:00:00,Defender,BE1,325000
-Aykut Öztürk,Germany,,Attack,TR1,10000
+Aykut Öztürk,Germany,1987-11-07,Attack,TR1,10000
 Timothy Chandler,Germany,1990-03-29 00:00:00,Defender,L1,500000
 Sebastian Jung,Germany,1990-06-22 00:00:00,Defender,L1,300000
 Serdar Kesimal,Germany,1989-01-24 00:00:00,Defender,TR1,500000
@@ -2224,7 +2224,7 @@ Anthony Modeste,France,1988-04-14 00:00:00,Attack,L1,700000
 Ezequiel Lavezzi,Argentina,1985-05-03 00:00:00,Attack,FR1,2000000
 André Martins,Portugal,1987-03-26 00:00:00,Attack,SC1,200000
 Elia Soriano,Germany,1989-06-26 00:00:00,Attack,NL1,50000
-Mahmut Temür,Germany,,Attack,TR1,50000
+Mahmut Temür,Germany,1989-10-08 00:00:00,Attack,TR1,50000
 Giel Deferm,Belgium,1988-06-30 00:00:00,Midfield,BE1,250000
 Ömer Sismanoglu,Germany,1989-08-01 00:00:00,Attack,TR1,100000
 Justin Eilers,Germany,1988-06-13 00:00:00,Attack,GR1,25000
@@ -2242,7 +2242,7 @@ Fernando,Brazil,1987-07-25 00:00:00,Midfield,ES1,2000000
 Marcel Risse,Germany,1989-12-17 00:00:00,Attack,L1,300000
 Julian Schauerte,Germany,1988-04-02 00:00:00,Defender,BE1,100000
 Nicolás Spolli,Argentina,1983-02-20 00:00:00,Defender,IT1,200000
-Marc Vucinovic,Germany,,Midfield,L1,150000
+Marc Vucinovic,Germany,1988-09-19,Midfield,L1,150000
 Danilo,Brazil,1990-01-13 00:00:00,Midfield,TR1,200000
 Rémi Gomis,France,1984-02-14 00:00:00,Midfield,FR1,250000
 Matthew Briggs,England,1991-03-06 00:00:00,Defender,DK1,100000
@@ -2681,7 +2681,7 @@ Fernando Muslera,Argentina,1986-06-16 00:00:00,Goalkeeper,TR1,1400000
 John Bostock,England,1992-01-15 00:00:00,Midfield,FR1,400000
 Omar Ramos,Spain,1988-01-26 00:00:00,Midfield,ES1,75000
 Yoel Rodríguez,Spain,1988-08-28 00:00:00,Goalkeeper,ES1,600000
-Julian Schieber,Germany,,Attack,L1,400000
+Julian Schieber,Germany,1989-02-13,Attack,L1,400000
 Zequinha,Portugal,1987-01-07 00:00:00,Attack,PO1,75000
 David Abraham,Argentina,1986-07-15 00:00:00,Defender,L1,1000000
 Nélson Lenho,Portugal,1984-03-22 00:00:00,Defender,PO1,50000
@@ -2699,7 +2699,7 @@ Matías Degra,Argentina,1983-06-18 00:00:00,Goalkeeper,GR1,50000
 Thomas Müller,Germany,1989-09-13 00:00:00,Attack,L1,8000000
 Özgür Aktas,Netherlands,1997-01-27 00:00:00,Defender,NL1,325000
 Damien Plessis,France,1988-03-05 00:00:00,Midfield,PO1,200000
-Maximilian Beister,Germany,,Attack,L1,100000
+Maximilian Beister,Germany,1990-09-06,Attack,L1,100000
 Tom,Brazil,1985-07-23 00:00:00,Midfield,TR1,50000
 Gonzalo Castillejos,Argentina,1986-03-05 00:00:00,Attack,GR1,125000
 Christian Groß,Germany,1989-02-08 00:00:00,Midfield,L1,300000
@@ -3474,7 +3474,7 @@ Robin Szarka,Germany,1991-09-17 00:00:00,Midfield,L1,100000
 Leon Broekhof,Netherlands,1988-05-14 00:00:00,Defender,NL1,75000
 Sjoerd Overgoor,Netherlands,1988-09-06 00:00:00,Midfield,NL1,125000
 Vincent Manceau,France,1989-07-10 00:00:00,Defender,FR1,300000
-Marc Lais,Germany,,Midfield,L1,150000
+Marc Lais,Germany,1991-02-04 00:00:00,Midfield,L1,150000
 Bahattin Köse,Germany,1990-08-26 00:00:00,Attack,TR1,150000
 Cihan Özkara,Germany,1991-07-14 00:00:00,Attack,TR1,50000
 Reagy Ofosu,Germany,1991-09-20 00:00:00,Attack,GR1,150000
@@ -3853,7 +3853,7 @@ Stephan El Shaarawy,Italy,1992-10-27 00:00:00,Attack,IT1,5000000
 Tobias Steffen,Germany,1992-06-03 00:00:00,Midfield,L1,25000
 Nils Quaschner,Germany,1994-04-22 00:00:00,Attack,L1,200000
 Manu Onwu,Spain,1988-01-11 00:00:00,Attack,ES1,100000
-Stefan Wannenwetsch,Germany,,Midfield,L1,200000
+Stefan Wannenwetsch,Germany,1992-01-19 00:00:00,Midfield,L1,200000
 Patrick Bauer,Germany,1992-10-28 00:00:00,Defender,PO1,600000
 Pascal Breier,Germany,1992-02-02 00:00:00,Attack,L1,250000
 Jordan Bowery,England,1991-07-02 00:00:00,Attack,GB1,175000
@@ -4279,7 +4279,7 @@ Volkan Okumak,Germany,1989-08-10 00:00:00,Attack,TR1,50000
 Thomas Dähne,Germany,1994-01-04 00:00:00,Goalkeeper,L1,400000
 Marius Bülter,Germany,1993-03-29 00:00:00,Attack,L1,2500000
 Philip Fontein,Germany,1993-10-05 00:00:00,Midfield,L1,75000
-Benedikt Röcker,Germany,,Defender,DK1,200000
+Benedikt Röcker,Germany,1989-11-19,Defender,DK1,200000
 Nicolás Colazo,Argentina,1990-07-08 00:00:00,Defender,GR1,200000
 Traquina,Portugal,1988-08-29 00:00:00,Attack,PO1,25000
 Hobie Verhulst,Netherlands,1993-04-02 00:00:00,Goalkeeper,NL1,400000
@@ -8798,7 +8798,7 @@ Juriën Gaari,Netherlands,1993-12-23 00:00:00,Defender,NL1,450000
 Pepelu,Spain,1998-08-11 00:00:00,Midfield,ES1,22000000
 Puck Postma,Netherlands,1997-02-18 00:00:00,Defender,NL1,25000
 Robin Koch,Germany,1996-07-17 00:00:00,Defender,L1,18000000
-Miguel Blanco-Lopez,Germany,,Defender,L1,25000
+Miguel Blanco-Lopez,Germany,1999-03-26,Defender,L1,25000
 Joey Roggeveen,Netherlands,1998-03-20 00:00:00,Goalkeeper,NL1,100000
 Álex Blanco,Spain,1998-12-16 00:00:00,Attack,ES1,600000
 Rui Pedro,Portugal,1998-03-20 00:00:00,Midfield,TR1,650000
@@ -8933,10 +8933,10 @@ Will Collar,England,1997-02-03 00:00:00,Midfield,SC1,350000
 David Carson,England,1995-09-20 00:00:00,Midfield,SC1,250000
 Bryan Janssen,Netherlands,1995-01-09 00:00:00,Goalkeeper,NL1,200000
 Marco Komenda,Germany,1996-11-26 00:00:00,Defender,L1,900000
-Noel Wembacher,Germany,,Midfield,L1,100000
-Jan Finger,Germany,,Defender,L1,100000
+Noel Wembacher,Germany,1997-03-15 00:00:00,Midfield,L1,100000
+Jan Finger,Germany,1997-01-02 00:00:00,Defender,L1,100000
 Ali Kazimi,Germany,1997-06-30 00:00:00,Attack,L1,50000
-Nick Volk,Germany,,Midfield,L1,100000
+Nick Volk,Germany,1997-11-21 00:00:00,Midfield,L1,100000
 Ben White,England,1997-10-08 00:00:00,Defender,GB1,55000000
 Miguel Campos,Portugal,1996-08-19 00:00:00,Defender,UKR1,300000
 Gyamfi Kyeremeh,Belgium,1995-03-09 00:00:00,Attack,BE1,50000
@@ -9252,7 +9252,7 @@ João Teixeira,France,1996-05-07 00:00:00,Midfield,UKR1,10000
 Rory Watson,England,1996-02-05 00:00:00,Goalkeeper,GB1,50000
 Diogo Gouveia,Portugal,1995-01-25 00:00:00,Midfield,PO1,50000
 Murilo de Souza,Brazil,1994-10-31 00:00:00,Attack,PO1,1200000
-Abdullah Karakoc,Germany,,Defender,TR1,50000
+Abdullah Karakoc,Germany,1994-11-01 00:00:00,Defender,TR1,50000
 Álex Martín,Spain,1998-01-25 00:00:00,Defender,ES1,800000
 Jorge,Brazil,1996-03-28 00:00:00,Defender,FR1,1100000
 Fabien Garcia,France,1994-07-14 00:00:00,Defender,FR1,275000
@@ -11720,7 +11720,7 @@ Conor Noß,Germany,2001-01-01 00:00:00,Midfield,L1,400000
 Lipe Veloso,Brazil,1997-04-07 00:00:00,Midfield,UKR1,250000
 Santiago Arzamendia,Argentina,1998-05-05 00:00:00,Defender,ES1,1200000
 Lucas Ventura,Brazil,1998-05-19 00:00:00,Midfield,PO1,500000
-Filippos Selkos,Germany,,Attack,GR1,100000
+Filippos Selkos,Germany,1999-08-11,Attack,GR1,100000
 Carlos Redruello,Spain,1997-06-23 00:00:00,Defender,ES1,250000
 Walid Cheddira,Italy,1998-01-22 00:00:00,Attack,ES1,6000000
 Tim-Justin Dietrich,Germany,2002-11-08 00:00:00,Defender,L1,150000
@@ -13441,7 +13441,7 @@ Benjamin Besic,France,2002-06-02 00:00:00,Midfield,FR1,75000
 Luis Felipe,Brazil,2001-05-17 00:00:00,Defender,NL1,300000
 Derik Lacerda,Brazil,1999-09-27 00:00:00,Attack,PO1,500000
 Rico Lewis,England,2004-11-21 00:00:00,Defender,GB1,38000000
-Cihat Topatan,Germany,,Attack,TR1,25000
+Cihat Topatan,Germany,2001-07-19 00:00:00,Attack,TR1,25000
 Keke Topp,Germany,2004-03-25 00:00:00,Attack,L1,3000000
 Daniele Ghilardi,Italy,2003-01-06 00:00:00,Defender,IT1,1600000
 Nicolò Cavuoti,Italy,2003-04-04 00:00:00,Midfield,IT1,200000
